@@ -8,3 +8,14 @@ O game se trata do classico Pong! Onde no campo existem duas raquetes e uma boli
 
 
 ## Bom jogo e se divirtam!
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Hey guys!
+
+Here is one of my first projects that I did along with my studies and acquired knowledge of JavaScript, it is an initial project, in the future I intend to implement more features and correct some bugs that are still present in the code, but beforehand, that's it .
+
+The game is the classic Pong! Where on the field there are two rackets and a ball, opponents face each other to score points at the opposing ends. It contains scoreboards, a background sound that loops throughout the game, and sound effects when hitting rackets and scoring.
+
+
+## Good game and have fun!
